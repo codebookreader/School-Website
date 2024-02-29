@@ -1,2 +1,2 @@
 # School-Website
-A website for my old primary school
+A website for my primary school
